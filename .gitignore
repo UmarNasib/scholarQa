@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database and Temporary Files
+temp_uploads/
+chroma_data/
+data/
+
+# OS generated files
+.DS_Store
