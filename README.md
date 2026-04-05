@@ -13,7 +13,8 @@ ScholarQA is a privacy-first, 100% local Retrieval-Augmented Generation (RAG) ap
 * **Frontend:** Streamlit
 * **Backend:** FastAPI, Uvicorn
 * **Database:** ChromaDB (Local Vector Store)
-* **AI Models (via Ollama):** * `llama3` (for reasoning and claim verification)
+* **AI Models (via Ollama):**
+  * `llama3` (for reasoning and claim verification)
   * `nomic-embed-text` (for hyper-fast local document embeddings)
 * **PDF Processing:** Unstructured / PyPDF
 
